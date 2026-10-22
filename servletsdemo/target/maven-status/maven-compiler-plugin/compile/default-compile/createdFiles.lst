@@ -1,0 +1,6 @@
+edu/profedev/servletsdemo/modelo/Alumno.class
+edu/profedev/servletsdemo/datos/DemoRepository.class
+edu/profedev/servletsdemo/servlet/InicioServlet.class
+edu/profedev/servletsdemo/servlet/InscripcionesServlet.class
+edu/profedev/servletsdemo/modelo/Inscripcion.class
+edu/profedev/servletsdemo/modelo/Curso.class
